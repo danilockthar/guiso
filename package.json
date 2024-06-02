@@ -13,5 +13,5 @@
     "build": "bun build ./index.ts --outdir ./build"
   },
   "type": "module",
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
