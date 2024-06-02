@@ -1,0 +1,5 @@
+{
+  "name": "@gui/so",
+  "version": "0.1.0",
+  "exports": "./build/index.js"
+}

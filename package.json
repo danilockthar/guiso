@@ -1,0 +1,17 @@
+{
+  "name": "guiso",
+  "module": "index.ts",
+  "main": "build/index.js",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^20.13.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "build": "bun build ./index.ts --outdir ./build"
+  },
+  "type": "module",
+  "version": "0.0.2"
+}
